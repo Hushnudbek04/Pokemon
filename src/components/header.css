@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 50px;
+  background-color:  #cfe317;
+ 
+}
+.header:hover{
+  background-color: #61d534;
+}
+
+.logo img {
+  height: 250px;
+}
+
+.searchArea {
+  display: flex;
+  align-items: center;
+}
+
+.search {
+  padding: 15px;
+  width: 500px;
+  border: none;
+  border-radius: 35px 0 0 35px;
+  
+}
+
+button {
+  padding: 13.5px;
+  background-color: #fff;
+  color: rgb(8, 6, 5);
+  border: none;
+  border-radius: 0 25px 25px 0;
+  cursor: pointer;
+}
