@@ -1,0 +1,4 @@
+oka sizda insatagramda saytni qayta yuklasa 404 not found bolib qolipti siz bunu 
+"_redirects" papkani public ichida ochip "_redirects" papka ichga " /*    /index.html    200 " ni qoshing va npm run build qilib silkani qaita yuklang 
+shunda saytni qaita yuklaganda 404 not found bolmaidi build PAPKA  ichida _rendirects unig ichda /*   index.html   200   bolishi kerak 
+sizga omad tilaiman 
